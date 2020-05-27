@@ -31,17 +31,31 @@ __A User can see my initial repository and live demo__
 
 __full user story description__
 
-### Repo
+### Branch
 
 what branch(es) did you work on?
 
-### HTML
+#### HTML
 
 what did you change in the HTML and why?
 
-### CSS
+#### CSS
 
 what did you change in the CSS and why?
+
+---
+
+### Issue
+
+* Created `issue name` issue
+
+---
+
+### Pull request
+
+* Create pull request from `branch` to `branch`
+
+This branch is merged when it is completely finished
 
 ## 2. ...
 
