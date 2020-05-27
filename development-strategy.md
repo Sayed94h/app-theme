@@ -31,37 +31,119 @@ __A User can see my initial repository and live demo__
 
 __full user story description__
 
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
 ### Branch
 
-what branch(es) did you work on?
+* Created a branch called `branch`
 
 #### HTML
 
-what did you change in the HTML and why?
+Created the following HTML elements:
+
+* `tag name `
+
 
 #### CSS
 
-what did you change in the CSS and why?
+Created the following CSS rules:
+
+* `CSS rule`
 
 ---
 
 ### Issue
 
-* Created `issue name` issue
+* Created `issue name` issue by creating a new branch
+
+* Closed the `issue name` by merging the branch
 
 ---
 
 ### Pull request
 
-* Create pull request from `branch` to `branch`
+* Created pull request from `branch` to `branch`
 
 This branch is merged when it is completely finished
 
-## 2. ...
+## 2. 
 
-...
+__full user story description__
 
-...
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `branch`
+
+#### HTML
+
+Created the following HTML elements:
+
+* `tag name `
+
+
+#### CSS
+
+Created the following CSS rules:
+
+* `CSS rule`
+
+---
+
+### Issue
+
+* Created `issue name` issue by creating a new branch
+
+* Closed the `issue name` by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `branch` to `branch`
+
+This branch is merged when it is completely finished
+
+## 3. 
+
+__full user story description__
+
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `branch`
+
+#### HTML
+
+Created the following HTML elements:
+
+* `tag name `
+
+
+#### CSS
+
+Created the following CSS rules:
+
+* `CSS rule`
+
+---
+
+### Issue
+
+* Created `issue name` issue by creating a new branch
+
+* Closed the `issue name` by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `branch` to `branch`
+
+This branch is merged when it is completely finished
+
 
 ## Finishing Touches
 
