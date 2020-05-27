@@ -69,7 +69,7 @@ Created the following CSS rules:
 
 This branch was merged when it was completely finished
 
-## 2. 
+## 2. User Story `Header`
 
 __full user story description__
 
@@ -77,34 +77,35 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 ### Branch
 
-* Created a branch called `branch`
+* Created a branch called `Header`
 
 #### HTML
 
 Created the following HTML elements:
 
-* `tag name `
-
+* Add `header tag`
+* Add content for the `header`
+* Add style for the `header`
 
 #### CSS
 
 Created the following CSS rules:
 
-* `CSS rule`
+* Add style for the `header`
 
 ---
 
 ### Issue
 
-* Created `issue name` issue by creating a new branch
+* Created `Header` issue by creating a new branch
 
-* Closed the `issue name` by merging the branch
+* Closed the `Header` by merging the branch
 
 ---
 
 ### Pull request
 
-* Created pull request from `branch` to `branch`
+* Created pull request from `Header` to `master`
 
 This branch is merged when it is completely finished
 
