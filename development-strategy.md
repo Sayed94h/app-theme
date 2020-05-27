@@ -41,9 +41,10 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 Created the following HTML elements:
 
-1. Add  `lang="en"` attribute to the `html tag`
+1. Added  `lang="en"` attribute to the `html tag`
 1. Added `meta tags` for the `index.html` file
 1. Added `content` to the `title tag`
+1. Added `link tag` for `css` file
 
 #### CSS
 
