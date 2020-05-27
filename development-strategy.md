@@ -111,7 +111,7 @@ Created the following CSS rules:
 
 This branch is merged when it is completely finished
 
-## 3. 
+## 3. User Story `Showcase`
 
 __full user story description__
 
@@ -119,34 +119,215 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 ### Branch
 
-* Created a branch called `branch`
+* Created a branch called `Showcase`
 
 #### HTML
 
 Created the following HTML elements:
 
-* `tag name `
+* Add `section tag`
+* Add `div tags` inside the `section tag`
+
 
 
 #### CSS
 
 Created the following CSS rules:
 
-* `CSS rule`
+* Add style for `section tag`
+
+* Add style for `div tags`
+
 
 ---
 
 ### Issue
 
-* Created `issue name` issue by creating a new branch
+* Created `Showcase` issue by creating a new branch
 
-* Closed the `issue name` by merging the branch
+* Closed the `Showcase` by merging the branch
 
 ---
 
 ### Pull request
 
-* Created pull request from `branch` to `branch`
+* Created pull request from `Showcase` to `master`
+
+This branch is merged when it is completely finished
+
+## 4. User Story `n`
+
+__full user story description__
+
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `next`
+
+#### HTML
+
+Created the following HTML elements:
+
+* Add `section tag`
+* Add `div tags` inside the `section tag`
+
+
+
+#### CSS
+
+Created the following CSS rules:
+
+* Add style for `section tag`
+
+* Add style for `div tags`
+
+
+---
+
+### Issue
+
+* Created `Showcase` issue by creating a new branch
+
+* Closed the `Showcase` by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `Showcase` to `master`
+
+This branch is merged when it is completely finished
+
+## 3. User Story `Showcase`
+
+__full user story description__
+
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `Showcase`
+
+#### HTML
+
+Created the following HTML elements:
+
+* Add `section tag`
+* Add `div tags` inside the `section tag`
+
+
+
+#### CSS
+
+Created the following CSS rules:
+
+* Add style for `section tag`
+
+* Add style for `div tags`
+
+
+---
+
+### Issue
+
+* Created `Showcase` issue by creating a new branch
+
+* Closed the `Showcase` by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `Showcase` to `master`
+
+This branch is merged when it is completely finished
+
+## 5. User Story `next`
+
+__full user story description__
+
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `Showcase`
+
+#### HTML
+
+Created the following HTML elements:
+
+* Add `section tag`
+* Add `div tags` inside the `section tag`
+
+
+
+#### CSS
+
+Created the following CSS rules:
+
+* Add style for `section tag`
+
+* Add style for `div tags`
+
+
+---
+
+### Issue
+
+* Created `Showcase` issue by creating a new branch
+
+* Closed the `Showcase` by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `Showcase` to `master`
+
+This branch is merged when it is completely finished
+
+## 3. User Story `Showcase`
+
+__full user story description__
+
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `Showcase`
+
+#### HTML
+
+Created the following HTML elements:
+
+* Add `section tag`
+* Add `div tags` inside the `section tag`
+
+
+
+#### CSS
+
+Created the following CSS rules:
+
+* Add style for `section tag`
+
+* Add style for `div tags`
+
+
+---
+
+### Issue
+
+* Created `Showcase` issue by creating a new branch
+
+* Closed the `Showcase` by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `Showcase` to `master`
 
 This branch is merged when it is completely finished
 
