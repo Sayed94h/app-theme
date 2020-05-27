@@ -1,10 +1,15 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
 write a short description of your project:
 - who would want to use it?
+
+Persons with basic knowledge of HTML and CSS.
+
 - why would they want to use it?
+
+This project is for learning. If you want to learn how to build a website from scratch than you are in the right place.
 
 ## Wireframe
 
@@ -16,13 +21,13 @@ write a short description of your project:
 
 __A User can see my initial repository and live demo__
 
-### Repo
+### Repo `app-theme`
 
-- Generate from Template
+- This repo generated from [this](https://github.com/HackYourFutureBelgium/w3-validation-template)Template
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. 
 
 __full user story description__
 
