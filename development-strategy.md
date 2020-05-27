@@ -85,13 +85,15 @@ Created the following HTML elements:
 
 * Add `header tag`
 * Add content for the `header`
-* Add style for the `header`
+* Add `div tags` inside the `header`
+
 
 #### CSS
 
 Created the following CSS rules:
 
 * Add style for the `header`
+* Add style for the `div tags`
 
 ---
 
