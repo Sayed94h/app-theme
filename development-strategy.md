@@ -155,7 +155,7 @@ Created the following CSS rules:
 
 This branch is merged when it is completely finished
 
-## 4. User Story `n`
+## 4. User Story `Features`
 
 __full user story description__
 
@@ -163,7 +163,7 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 ### Branch
 
-* Created a branch called `next`
+* Created a branch called `Features`
 
 #### HTML
 
@@ -171,8 +171,7 @@ Created the following HTML elements:
 
 * Add `section tag`
 * Add `div tags` inside the `section tag`
-
-
+* Add `h tags` inside the `div tag`
 
 #### CSS
 
@@ -182,24 +181,23 @@ Created the following CSS rules:
 
 * Add style for `div tags`
 
-
 ---
 
 ### Issue
 
-* Created `Showcase` issue by creating a new branch
+* Created `Features` issue by creating a new branch
 
-* Closed the `Showcase` by merging the branch
+* Closed the `Feature` issue by merging the branch
 
 ---
 
 ### Pull request
 
-* Created pull request from `Showcase` to `master`
+* Created pull request from `Features` to `master`
 
 This branch is merged when it is completely finished
 
-## 5. User Story `Next`
+## 5. User Story `info-section`
 
 __full user story description__
 
