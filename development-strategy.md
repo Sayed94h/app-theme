@@ -27,7 +27,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. 
+## 1. User Story `Start-3-2-1`
 
 __full user story description__
 
@@ -35,36 +35,38 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 ### Branch
 
-* Created a branch called `branch`
+* Created a branch called `Start-3-2-1`
 
 #### HTML
 
 Created the following HTML elements:
 
-* `tag name `
-
+1. Add  `lang="en"` attribute to the `html tag`
+1. Added `meta tags` for the `index.html` file
+1. Added `content` to the `title tag`
 
 #### CSS
 
 Created the following CSS rules:
 
-* `CSS rule`
+* Create a folder called `css`
+* Create a new file called `style.css`
 
 ---
 
 ### Issue
 
-* Created `issue name` issue by creating a new branch
+* Created `Start-3-2-1` issue by creating a new branch
 
-* Closed the `issue name` by merging the branch
+* Closed the `Start-3-2-1` by merging the branch
 
 ---
 
 ### Pull request
 
-* Created pull request from `branch` to `branch`
+* Created pull request from `Start-3-2-1` to `master`
 
-This branch is merged when it is completely finished
+This branch was merged when it was completely finished
 
 ## 2. 
 
