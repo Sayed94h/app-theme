@@ -86,7 +86,7 @@ Created the following HTML elements:
 * Add `header tag`
 * Add content for the `header`
 * Add `div tags` inside the `header`
-
+* Add `nav tags` inside the `div tags`
 
 #### CSS
 
@@ -199,7 +199,7 @@ Created the following CSS rules:
 
 This branch is merged when it is completely finished
 
-## 3. User Story `Showcase`
+## 5. User Story `Next`
 
 __full user story description__
 
@@ -243,7 +243,7 @@ Created the following CSS rules:
 
 This branch is merged when it is completely finished
 
-## 5. User Story `next`
+## 6. User Story `next`
 
 __full user story description__
 
@@ -287,7 +287,7 @@ Created the following CSS rules:
 
 This branch is merged when it is completely finished
 
-## 3. User Story `Showcase`
+## 7. User Story `Showcase`
 
 __full user story description__
 
