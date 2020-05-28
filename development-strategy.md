@@ -449,14 +449,18 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 Created the following HTML elements:
 
-* Create a new file called `services.html`
-* Copy-past the entire `about.html` inside `services.html`
-* Change the title of the page to `app-theme | Services`
-* Change the Subheader to `Services`
-* Remove the `p tags` from the main page
-* Add `ul and li tags` 
-* Add `h4 tag`
-* Add `p tags` inside the `h4 tag`
+* Create a new file called `contact.html`
+* Copy-past the entire `services.html` inside `contact.html`
+* Change the title of the page to `app-theme | Contact`
+* Change the Subheader to `Contact`
+* Remove the `ul and li tags` from the main page
+* Add `p tags` inside the `h3 tag`
+* Add `form tag`  below the `p tag`
+* Add `div tag`  inside the `form tag`
+* Add `label tag`  inside the `div tag`
+* Add `input tag`  inside the `div tag`
+* Add `textarea tag` 
+* Add `button tag`  inside the `form tag`
 * Add `ID and Classes` for styling the page
 
 #### CSS
@@ -481,7 +485,7 @@ Created the following CSS rules:
 
 This branch is merged when it is completely finished
 
-## 7. User Story `next`
+## 7. User Story `mainStyles-responsive`
 
 __full user story description__
 
@@ -489,7 +493,7 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 ### Branch
 
-* Created a branch called `services`
+* Created a branch called `mainStyles-responsive`
 
 #### HTML
 
@@ -515,15 +519,15 @@ Created the following CSS rules:
 
 ### Issue
 
-* Created `services-page` issue by creating a new branch
+* Created `mainStyles-responsive` issue by creating a new branch
 
-* Closed the `services-page` issue by merging the branch
+* Closed the `mainStyles-responsive` issue by merging the branch
 
 ---
 
 ### Pull request
 
-* Created pull request from `services` to `master`
+* Created pull request from `mainStyles-responsive` to `master`
 
 This branch is merged when it is completely finished
 
