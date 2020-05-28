@@ -44,7 +44,7 @@ Created the following HTML elements:
 1. Added  `lang="en"` attribute to the `html tag`
 1. Added `meta tags` for the `index.html` file
 1. Added `content` to the `title tag`
-1. Added `link tag` for `css` file
+1. Added `link tag` for `css` files
 
 #### CSS
 
@@ -87,6 +87,7 @@ Created the following HTML elements:
 * Add content for the `header`
 * Add `div tags` inside the `header`
 * Add `nav tags` inside the `div tags`
+* Add `ID and Classes` for `tags` to style them
 
 #### CSS
 
@@ -127,6 +128,7 @@ Created the following HTML elements:
 
 * Add `section tag`
 * Add `div tags` inside the `section tag`
+* Add `ID and Classes` for `tags` to style them
 
 
 
@@ -172,6 +174,7 @@ Created the following HTML elements:
 * Add `section tag`
 * Add `div tags` inside the `section tag`
 * Add `h tags` inside the `div tag`
+* Add `ID and Classes` for `tags` to style them
 
 #### CSS
 
@@ -205,7 +208,7 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 ### Branch
 
-* Created a branch called `Showcase`
+* Created a branch called `info-section`
 
 #### HTML
 
@@ -213,7 +216,10 @@ Created the following HTML elements:
 
 * Add `section tag`
 * Add `div tags` inside the `section tag`
-
+* Add `img tag`
+* Add `h2 tag`
+* Add `ul and li tags`
+* Add `ID and Classes` for `tags` to style them
 
 
 #### CSS
@@ -224,24 +230,26 @@ Created the following CSS rules:
 
 * Add style for `div tags`
 
+* Add style or CSS rules for created `tags`
+
 
 ---
 
 ### Issue
 
-* Created `Showcase` issue by creating a new branch
+* Created `info-section` issue by creating a new branch
 
-* Closed the `Showcase` by merging the branch
+* Closed the `info-section` by merging the branch
 
 ---
 
 ### Pull request
 
-* Created pull request from `Showcase` to `master`
+* Created pull request from `info-section` to `master`
 
 This branch is merged when it is completely finished
 
-## 6. User Story `next`
+## 6. User Story `footer`
 
 __full user story description__
 
@@ -257,6 +265,7 @@ Created the following HTML elements:
 
 * Add `section tag`
 * Add `div tags` inside the `section tag`
+* Add `ID and Classes` for `tags` to style them
 
 
 
@@ -301,8 +310,7 @@ Created the following HTML elements:
 
 * Add `section tag`
 * Add `div tags` inside the `section tag`
-
-
+* Add `ID and Classes` for `tags` to style them
 
 #### CSS
 
@@ -311,7 +319,6 @@ Created the following CSS rules:
 * Add style for `section tag`
 
 * Add style for `div tags`
-
 
 ---
 
