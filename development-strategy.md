@@ -31,7 +31,7 @@ __A User can see my initial repository and live demo__
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a website owner or creator, I would like to start creating my website from top to bottom
 
 ### Branch
 
@@ -73,7 +73,7 @@ This branch was merged when it was completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to know which website I am visiting and as a website owner or creator, I would like to create a descriptive header for my webpage.
 
 ### Branch
 
@@ -86,6 +86,7 @@ Created the following HTML elements:
 * Add `header tag`
 * Add content for the `header`
 * Add `div tags` inside the `header`
+* Add `h tag` inside the `div tag`
 * Add `nav tags` inside the `div tags`
 * Add `ID and Classes` for `tags` to style them
 
@@ -116,7 +117,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to visit a website with Showcase and as a website owner or creator, I find it important that there is a showcase in the home page of my website.
 
 ### Branch
 
@@ -128,6 +129,7 @@ Created the following HTML elements:
 
 * Add `section tag`
 * Add `div tags` inside the `section tag`
+* Add `h tag` inside the `div tag`
 * Add `ID and Classes` for `tags` to style them
 
 
@@ -136,10 +138,7 @@ Created the following HTML elements:
 
 Created the following CSS rules:
 
-* Add style for `section tag`
-
-* Add style for `div tags`
-
+* Add style for `created or added tags`
 
 ---
 
@@ -161,7 +160,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to know the features........ and as a website owner or creator, it is important to let the visitors know about our feature.
 
 ### Branch
 
@@ -174,15 +173,15 @@ Created the following HTML elements:
 * Add `section tag`
 * Add `div tags` inside the `section tag`
 * Add `h tags` inside the `div tag`
+* Add `p tags` inside the `div tag`
+* Add `i tags` inside the `div tag`
 * Add `ID and Classes` for `tags` to style them
 
 #### CSS
 
 Created the following CSS rules:
 
-* Add style for `section tag`
-
-* Add style for `div tags`
+* Add style for `created or added tags`
 
 ---
 
@@ -204,7 +203,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to gain enough info about company, features, services... and as a website owner or creator, I would like to give info in my website
 
 ### Branch
 
@@ -226,12 +225,7 @@ Created the following HTML elements:
 
 Created the following CSS rules:
 
-* Add style for `section tag`
-
-* Add style for `div tags`
-
 * Add style or CSS rules for created `tags`
-
 
 ---
 
@@ -253,7 +247,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to be able to contact the company if it is needed........ and as a website owner or creator, I would like to leave the company's contact information for the visitors
 
 ### Branch
 
@@ -278,9 +272,6 @@ Created the following HTML elements:
 
 Created the following CSS rules:
 
-* Add style for `section tag`
-
-* Add style for `div tags`
 * Add style or CSS rules for created `tags`
 
 ---
@@ -303,7 +294,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a website owner or creator, I would like to protect the website with the copyright option.
 
 ### Branch
 
@@ -322,9 +313,6 @@ Created the following HTML elements:
 
 Created the following CSS rules:
 
-* Add style for `section tag`
-
-* Add style for `div tags`
 * Add style or css rules for the created ` tags`
 
 ---
@@ -347,7 +335,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to the company and as a website owner or creator, I would like to let the visitors know about my company.
 
 ### Branch
 
@@ -393,7 +381,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to know which services the company offers and as a website owner or creator, I would like to let the visitors know about our services.
 
 ### Branch
 
@@ -439,7 +427,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I would like to be able to leave an email message directly from the website via a form and as a website owner or creator, I would like to create form for the visitor so that they can contact us easy.
 
 ### Branch
 
@@ -489,7 +477,7 @@ This branch is merged when it is completely finished
 
 __full user story description__
 
-As a visitor, I would like to........ and as a website owner or creator, I would like to............
+As a visitor, I want that the webpage is clear and readable and as a website owner or creator, I would like to create responsive and stylish webpage so that visitors enjoiy staying on our website using different devices with different screen sizes.
 
 ### Branch
 
@@ -700,6 +688,11 @@ img {
 }
 
 .contact form input[type="text"] {
+    width: 50%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.contact form input[type="email"] {
     width: 50%;
     height: 30px;
     margin-bottom: 10px;
