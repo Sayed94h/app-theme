@@ -357,18 +357,20 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 Created the following HTML elements:
 
-* Add `footer tag`
-* Add `div tags`
-* Add `p tag`
-* Add `ID and Classes` for `tags` to style them
+* Create a new file called `about.html`
+* Copy-past the entire `index.html` inside `about.html`
+* Change the title of the page to `app-theme | About`
+* Remove the `Showcase`, `Features`, `info-section` sections for the `about.html`
+* Add a `section tag` as the subheader for the `about-page`
+* Add `div tags` 
+* Add `h2 tag`
+* Add `ID and Classes` for styling the page
+
 
 #### CSS
 
 Created the following CSS rules:
 
-* Add style for `section tag`
-
-* Add style for `div tags`
 * Add style or css rules for the created ` tags`
 
 ---
