@@ -403,27 +403,121 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 Created the following HTML elements:
 
-* Add `footer tag`
-* Add `div tags`
-* Add `p tag`
-* Add `ID and Classes` for `tags` to style them
+* Create a new file called `services.html`
+* Copy-past the entire `about.html` inside `services.html`
+* Change the title of the page to `app-theme | Services`
+* Change the Subheader to `Services`
+* Remove the `p tags` from the main page
+* Add `ul and li tags` 
+* Add `h4 tag`
+* Add `p tags` inside the `h4 tag`
+* Add `ID and Classes` for styling the page
 
 #### CSS
 
 Created the following CSS rules:
 
-* Add style for `section tag`
-
-* Add style for `div tags`
 * Add style or css rules for the created ` tags`
 
 ---
 
 ### Issue
 
-* Created `services` issue by creating a new branch
+* Created `services-page` issue by creating a new branch
 
-* Closed the `services` issue by merging the branch
+* Closed the `services-page` issue by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `services` to `master`
+
+This branch is merged when it is completely finished
+
+## 7. User Story `Contact`
+
+__full user story description__
+
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `Contact`
+
+#### HTML
+
+Created the following HTML elements:
+
+* Create a new file called `services.html`
+* Copy-past the entire `about.html` inside `services.html`
+* Change the title of the page to `app-theme | Services`
+* Change the Subheader to `Services`
+* Remove the `p tags` from the main page
+* Add `ul and li tags` 
+* Add `h4 tag`
+* Add `p tags` inside the `h4 tag`
+* Add `ID and Classes` for styling the page
+
+#### CSS
+
+Created the following CSS rules:
+
+* Add style or css rules for the created ` tags`
+
+---
+
+### Issue
+
+* Created `Contact-page` issue by creating a new branch
+
+* Closed the `Contact-page` issue by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `Contact` to `master`
+
+This branch is merged when it is completely finished
+
+## 7. User Story `next`
+
+__full user story description__
+
+As a visitor, I would like to........ and as a website owner or creator, I would like to............
+
+### Branch
+
+* Created a branch called `services`
+
+#### HTML
+
+Created the following HTML elements:
+
+* Create a new file called `services.html`
+* Copy-past the entire `about.html` inside `services.html`
+* Change the title of the page to `app-theme | Services`
+* Change the Subheader to `Services`
+* Remove the `p tags` from the main page
+* Add `ul and li tags` 
+* Add `h4 tag`
+* Add `p tags` inside the `h4 tag`
+* Add `ID and Classes` for styling the page
+
+#### CSS
+
+Created the following CSS rules:
+
+* Add style or css rules for the created ` tags`
+
+---
+
+### Issue
+
+* Created `services-page` issue by creating a new branch
+
+* Closed the `services-page` issue by merging the branch
 
 ---
 
