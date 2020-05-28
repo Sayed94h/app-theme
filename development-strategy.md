@@ -747,7 +747,43 @@ img {
 This branch is merged when it is completely finished
 
 
+## 8. User Story `Final-check`
 
+__full user story description__
+
+As a website owner or creator, I would like to first check if there is any mistakes and then publish the website
+
+### Branch
+
+* Created a branch called `Final-check`
+
+#### HTML
+
+Created the following HTML elements:
+
+* Checked all HTML tags
+
+#### CSS
+
+Created the following CSS rules:
+
+* Check all CSS rules
+
+---
+
+### Issue
+
+* Created `Final-check` issue by creating a new branch
+
+* Closed the `Final-check` by merging the branch
+
+---
+
+### Pull request
+
+* Created pull request from `Final-check` to `master`
+
+This branch was merged when it was completely finished
 
 ## Finishing Touches
 
