@@ -15,7 +15,7 @@ This project is for learning. If you want to learn how to build a website from s
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./wireframe.png)
 
 ## 0. Set-Up
 
