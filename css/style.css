@@ -211,6 +211,11 @@ img {
     height: 30px;
     margin-bottom: 10px;
 }
+.contact form input[type="email"] {
+    width: 50%;
+    height: 30px;
+    margin-bottom: 10px;
+}
 
 .contact form textarea {
     width: 50%;
