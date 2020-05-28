@@ -23,7 +23,7 @@ __A User can see my initial repository and live demo__
 
 ### Repo `app-theme`
 
-- This repo generated from [this](https://github.com/HackYourFutureBelgium/w3-validation-template)Template
+- This repo generated from [this](https://github.com/HackYourFutureBelgium/w3-validation-template) Template
 - Write initial, basic README
 - Turn on GitHub Pages
 
