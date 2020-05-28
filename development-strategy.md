@@ -263,10 +263,15 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 Created the following HTML elements:
 
-* Add `section tag`
+* Add ` section tag`
 * Add `div tags` inside the `section tag`
-* Add `ID and Classes` for `tags` to style them
-
+* Add `h4 tags`
+* Add `ul and li tags`
+* Add `p tags`
+* Add `form tag`
+* Add `input tag`
+* Add `button tag`
+* Add `ID and Classes`
 
 
 #### CSS
@@ -276,7 +281,7 @@ Created the following CSS rules:
 * Add style for `section tag`
 
 * Add style for `div tags`
-
+* Add style or CSS rules for created `tags`
 
 ---
 
@@ -294,7 +299,7 @@ Created the following CSS rules:
 
 This branch is merged when it is completely finished
 
-## 7. User Story `Showcase`
+## 7. User Story `footer`
 
 __full user story description__
 
@@ -302,7 +307,7 @@ As a visitor, I would like to........ and as a website owner or creator, I would
 
 ### Branch
 
-* Created a branch called `Showcase`
+* Created a branch called `footer`
 
 #### HTML
 
@@ -324,15 +329,15 @@ Created the following CSS rules:
 
 ### Issue
 
-* Created `Showcase` issue by creating a new branch
+* Created `footer` issue by creating a new branch
 
-* Closed the `Showcase` by merging the branch
+* Closed the `footer` issue by merging the branch
 
 ---
 
 ### Pull request
 
-* Created pull request from `Showcase` to `master`
+* Created pull request from `footer` to `master`
 
 This branch is merged when it is completely finished
 
